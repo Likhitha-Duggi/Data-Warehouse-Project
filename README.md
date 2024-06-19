@@ -1,2 +1,3 @@
-# Data-Warehouse-Project
-Stock Market Analysis - Dimensional Modeling - OLAP Queries
+## Stock Market Analysis
+
+This project involves constructing a data warehouse model for analyzing stock market exchange data from various companies. Utilizing dimensional modeling and the ETL process, the warehouse integrates OLAP querying techniques to support business intelligence and decision-making. The data warehouse stores transactional data in a denormalized format, enabling efficient organization, storage, and analysis. Tableau is used for visualizations with drill-down capabilities to explore stock performance, sector distributions, and GDP contributions. By analyzing parameters such as trading dates, volumes, and stock values, this model provides insights into market trends and helps optimize investment strategies.
